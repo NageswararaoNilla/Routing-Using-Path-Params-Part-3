@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/devblogapp/static/css/main.30f64481.chunk.css",
-    "main.js": "/devblogapp/static/js/main.bfbd3355.chunk.js",
-    "main.js.map": "/devblogapp/static/js/main.bfbd3355.chunk.js.map",
-    "runtime-main.js": "/devblogapp/static/js/runtime-main.0145bf4d.js",
-    "runtime-main.js.map": "/devblogapp/static/js/runtime-main.0145bf4d.js.map",
-    "static/css/2.7a8f3fa9.chunk.css": "/devblogapp/static/css/2.7a8f3fa9.chunk.css",
-    "static/js/2.840efaae.chunk.js": "/devblogapp/static/js/2.840efaae.chunk.js",
-    "static/js/2.840efaae.chunk.js.map": "/devblogapp/static/js/2.840efaae.chunk.js.map",
-    "index.html": "/devblogapp/index.html",
-    "static/css/2.7a8f3fa9.chunk.css.map": "/devblogapp/static/css/2.7a8f3fa9.chunk.css.map",
-    "static/css/main.30f64481.chunk.css.map": "/devblogapp/static/css/main.30f64481.chunk.css.map",
-    "static/js/2.840efaae.chunk.js.LICENSE.txt": "/devblogapp/static/js/2.840efaae.chunk.js.LICENSE.txt"
+    "main.css": "/Routing-Using-Path-Params-Part-3/static/css/main.30f64481.chunk.css",
+    "main.js": "/Routing-Using-Path-Params-Part-3/static/js/main.bfbd3355.chunk.js",
+    "main.js.map": "/Routing-Using-Path-Params-Part-3/static/js/main.bfbd3355.chunk.js.map",
+    "runtime-main.js": "/Routing-Using-Path-Params-Part-3/static/js/runtime-main.e802c6b4.js",
+    "runtime-main.js.map": "/Routing-Using-Path-Params-Part-3/static/js/runtime-main.e802c6b4.js.map",
+    "static/css/2.7a8f3fa9.chunk.css": "/Routing-Using-Path-Params-Part-3/static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.840efaae.chunk.js": "/Routing-Using-Path-Params-Part-3/static/js/2.840efaae.chunk.js",
+    "static/js/2.840efaae.chunk.js.map": "/Routing-Using-Path-Params-Part-3/static/js/2.840efaae.chunk.js.map",
+    "index.html": "/Routing-Using-Path-Params-Part-3/index.html",
+    "static/css/2.7a8f3fa9.chunk.css.map": "/Routing-Using-Path-Params-Part-3/static/css/2.7a8f3fa9.chunk.css.map",
+    "static/css/main.30f64481.chunk.css.map": "/Routing-Using-Path-Params-Part-3/static/css/main.30f64481.chunk.css.map",
+    "static/js/2.840efaae.chunk.js.LICENSE.txt": "/Routing-Using-Path-Params-Part-3/static/js/2.840efaae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0145bf4d.js",
+    "static/js/runtime-main.e802c6b4.js",
     "static/css/2.7a8f3fa9.chunk.css",
     "static/js/2.840efaae.chunk.js",
     "static/css/main.30f64481.chunk.css",
